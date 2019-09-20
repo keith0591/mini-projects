@@ -1,5 +1,12 @@
-insert into aggregators values (1,'day','2019-09-08',1,null);
-insert into aggregators values (2,'market','Bangalore',2,1);
-insert into aggregators values (3,'locality','koramangala',3,2);
-insert into aggregators values (4,'market','pune',2,1);
-insert into aggregators values (5,'locality','whitefield',3,2);
+insert into PERSON values (1,'William',null);
+insert into PERSON values (2,'Henry',1);
+insert into PERSON values (3,'Matt',2);
+insert into PERSON values (4,'Alisa',2);
+insert into PERSON values (5,'May',1);
+insert into PERSON values (6,'Alexa',4);
+insert into PERSON values (7,'Sophi',3);
+insert into AGGREGATORS values (1,'day','2019-09-08',1,null);
+insert into AGGREGATORS values (2,'market','Bangalore',2,1);
+insert into AGGREGATORS values (3,'locality','koramangala',3,2);
+insert into AGGREGATORS values (4,'market','pune',2,1);
+insert into AGGREGATORS values (5,'locality','whitefield',3,2);
